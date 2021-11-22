@@ -20,9 +20,13 @@
     <school>
         <class name="9а">
             <mainTeacher name="Людимла Иванова Ивановна" subject="Русский язык" />
+            <studentsList>
+                <student first_name="Иван" middle_name="Максимович" last_name="Иванов" mark="4.5" />
+                <student first_name="Иван" middle_name="Денисович" last_name="Олег" mark="4.5" />
+            </studentsList>
         </class>
         <class name="9б">
-            <mainTeacher name="Людимла Иванова Ивановна" subject="Русский язык" />
+            <mainTeacher name="Иван Иванов Иванович" subject="Русский язык" />
         </class>
     </school>
 
