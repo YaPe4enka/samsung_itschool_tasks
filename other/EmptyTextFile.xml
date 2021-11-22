@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+1. Пролог
+2. Эпилог
+3. Тело
+-->
+
+<root>  <!-- root tag (must be here) -->
+    <message from="rodion" to="@all">test</message>
+    <year>2021</year>
+    <car color="black" number="А198ВС37" mark="Audi" />
+
+    <player nickname="User1337" xp="164000" hp="70" type="archer" online="false" banned="false" />
+    <message><![CDATA[&lt]]></message>
+
+    <!--  comment section (as in HTML)  -->
+    <!--  another example - description of my school  -->
+
+    <school>
+        <class name="9а">
+            <mainTeacher name="Людимла Иванова Ивановна" subject="Русский язык" />
+        </class>
+        <class name="9б">
+            <mainTeacher name="Людимла Иванова Ивановна" subject="Русский язык" />
+        </class>
+    </school>
+
+</root>
